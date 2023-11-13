@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df3e1b32-f5a5-48b7-afac-3341fde19946" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../Collections/src/com/generation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Collections/src/com/generation/generation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Collections/src/com/generation/out/production/generation/com/generation/generation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Final Project/JAVA-13 - Final Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Object Oriented Programming - Fundamentals/Theory session/Theory session.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Java/Activity 1/ClassGrader/ClassGrader.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Java/Activity 1/Commision-Discounts/Commision-Discounts.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Java/HR-system/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Java/HR-system/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Java/HR-system/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Java/HR-system/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Java/HR-system/HR-system.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Java/HR-system/src/SalesRep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Java/HR-system/src/employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Java/HR-system/src/salesManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Java/LoopActivity/LoopActivity.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Java/MyFirstInput/MyFirstInput.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Java/customerReservationApp/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Java/customerReservationApp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Java/customerReservationApp/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Java/customerReservationApp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Java/customerReservationApp/customerReservationApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Java/customerReservationApp/src/Customer/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Java/customerReservationApp/src/VIP/VIP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Java/fundamentalsassignment/fundamentalsassignment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Java/fundamentalsassignment/src/Courses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Java/fundamentalsassignment/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Java/variables/variables.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2XsivUwLDKubr0M6wETMHOcEKiE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/nasruddinislambinramli/Desktop/generation/JAVA-master/Object Oriented Programming - Advanced/src/com/generation"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df3e1b32-f5a5-48b7-afac-3341fde19946" name="Changes" comment="" />
+      <created>1699424419060</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699424419060</updated>
+    </task>
+    <servers />
+  </component>
+</project>

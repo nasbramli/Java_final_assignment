@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="275711e1-bf06-4142-b935-afa642dac78f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../JAVA-master/Collections/src/com/generation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JAVA-master/Collections/src/com/generation/generation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JAVA-master/Collections/src/com/generation/out/production/generation/com/generation/generation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JAVA-master/Final Project/JAVA-13 - Final Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JAVA-master/Object Oriented Programming - Advanced/src/com/generation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JAVA-master/Object Oriented Programming - Advanced/src/com/generation/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JAVA-master/Object Oriented Programming - Advanced/src/com/generation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JAVA-master/Object Oriented Programming - Advanced/src/com/generation/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JAVA-master/Object Oriented Programming - Advanced/src/com/generation/generation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JAVA-master/Object Oriented Programming - Fundamentals/Theory session/Theory session.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity 1/ClassGrader/ClassGrader.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity 1/Commision-Discounts/Commision-Discounts.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HR-system/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HR-system/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HR-system/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HR-system/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HR-system/HR-system.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HR-system/src/SalesRep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HR-system/src/employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HR-system/src/salesManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoopActivity/LoopActivity.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstInput/MyFirstInput.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../customerReservationApp/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../customerReservationApp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../customerReservationApp/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../customerReservationApp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../customerReservationApp/customerReservationApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../customerReservationApp/src/Customer/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../customerReservationApp/src/VIP/VIP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentalsassignment/fundamentalsassignment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentalsassignment/src/Courses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentalsassignment/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../variables/variables.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2Xv8Gt7PUbbYlEjna5wUGI4RVww" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="275711e1-bf06-4142-b935-afa642dac78f" name="Changes" comment="" />
+      <created>1699498102895</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699498102895</updated>
+    </task>
+    <servers />
+  </component>
+</project>
